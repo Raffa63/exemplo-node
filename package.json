@@ -1,0 +1,23 @@
+{
+  "name": "exemplo-node",
+  "version": "1.0.0",
+  "description": "Projeto exemplo em Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raffa63/exemplo-node.git"
+  },
+  "keywords": [
+    "node",
+    "git"
+  ],
+  "author": "Rafael S Costa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Raffa63/exemplo-node/issues"
+  },
+  "homepage": "https://github.com/Raffa63/exemplo-node#readme"
+}
